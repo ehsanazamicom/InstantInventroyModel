@@ -1,0 +1,9 @@
+# Data folder
+Data/
+
+# Model files
+*.pkl
+*.joblib
+
+# If you want only this specific file
+random_forest.pkl
